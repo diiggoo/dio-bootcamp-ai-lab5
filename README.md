@@ -1,6 +1,6 @@
 # dio-bootcamp-ai-lab5
  Explorando os Recursos de IA Generativa com Copilot e OpenAI
-**README para Explorar Filtros de Conteúdo no Azure OpenAI com o Microsoft Copilot**
+**Azure OpenAI com o Microsoft Copilot**
 
 **Visão Geral:**
 Neste exercício, você irá explorar os filtros de conteúdo padrão no Azure OpenAI para entender como eles ajudam a garantir o uso responsável de IA. Além disso, você poderá experimentar o Microsoft Copilot, uma ferramenta de codificação baseada em IA que auxilia no desenvolvimento de software.
